@@ -89,7 +89,7 @@
                 "image": "@PROJECT_PATH@/assets/images/schetsboek4-883x611-84.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "<a href=\"sketches.html\" class=\"text-black\">SKECTHES</a>",
+                "title": "<a href=\"sketches.html\" class=\"text-black\">SKETCHES</a>",
                 "showText": false,
                 "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
                 "showButtons": false,
@@ -1159,19 +1159,21 @@
               },
               {
                 "caption": "Type caption here",
-                "thumb": "images/slide6-small.jpg",
-                "image": "images/slide6.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/model7-827x1100-90-827x1100-87.jpg",
+                "image": "@PROJECT_PATH@/assets/images/model7-827x1100-90.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/model8-827x1103-47-827x1103-0.jpg",
+                "image": "@PROJECT_PATH@/assets/images/model8-827x1103-47.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/model1-1097x822-51-1097x822-5.jpg",
+                "image": "@PROJECT_PATH@/assets/images/model1-1097x822-51.jpg",
                 "active": true
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "images/slide7-small.jpg",
-                "image": "images/slide7.jpg"
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "images/slide8-small.jpg",
-                "image": "images/slide8.jpg"
               }
             ],
             "showText": false,
