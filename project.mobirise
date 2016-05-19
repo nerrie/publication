@@ -74,8 +74,8 @@
             "autoplay": true,
             "slides": [
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/-mg-9821-4414x3268-27.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/-mg-9821-4414x3268-95.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "<span style=\"font-weight: normal;\"><a href=\"assignments2016.html\" class=\"text-black\">FINISHED WORK</a></span>",
@@ -85,7 +85,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/schetsboek4-883x611-89.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
@@ -797,7 +797,7 @@
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/werk1-761x758-65-761x758-63.jpg",
                 "image": "@PROJECT_PATH@/assets/images/werk1-761x758-65.jpg",
-                "active": true
+                "active": false
               },
               {
                 "caption": "Type caption here",
@@ -821,7 +821,7 @@
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/scan-3853x2892-58-2000x1501-52.jpg",
                 "image": "@PROJECT_PATH@/assets/images/scan-3853x2892-58.jpg",
-                "active": false
+                "active": true
               },
               {
                 "caption": "Type caption here",
@@ -1408,7 +1408,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/face-567x567-35.png",
+              "src": "@PROJECT_PATH@/assets/images/face-567x567-33.png",
               "link": "",
               "alt": "",
               "title": "",
